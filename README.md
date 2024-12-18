@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web devlopment
 - 💞️ I’m looking to collaborate on small projects
 - 📫 Reach me at singhrupesh7828@gmail.com
-- 😄 Pronouns:...
+- 😄 Pronouns:He/Him
 - ⚡ Fun fact: Snakes can pridict Earthquacks.
 
 <!---
